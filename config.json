@@ -1,0 +1,17 @@
+{
+    "dev": {
+      "raw_data_path": "dev-bucket/raw/",
+      "processed_data_path": "dev-bucket/processed/",
+      "report_data_path": "dev-bucket/report/",
+      "device_data_source_path" : "sample_data/devices_info/devices.csv",
+      "sensor_data_source_path" : "sample_data/sensor_data"
+    },
+    "prod": {
+      "raw_data_path": "prod-bucket/raw/",
+      "processed_data_path": "prod-bucket/processed/",
+      "report_data_path": "prod-bucket/report/",
+      "device_data_source_path" : "prod_sample_data/devices_info/devices.csv",
+      "sensor_data_source_path" : "prod_sample_data/sensor_data"
+    }
+  }
+  

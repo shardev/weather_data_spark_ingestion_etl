@@ -1,0 +1,10 @@
+{"device":"abc","timestamp":"2021-04-01T23:47:55.374Z","CO2_level":1300,"humidity":63,"temperature":23}
+{"device":"abc","timestamp":"2021-04-01T22:15:25.053Z","CO2_level":1400,"humidity":71,"temperature":15}
+{"device":"abc","timestamp":"2021-04-01T22:09:15.032Z","CO2_level":900,"humidity":55,"temperature":23}
+{"device":"abc","timestamp":"2021-04-01T22:03:05.010Z","CO2_level":800,"humidity":63,"temperature":11}
+{"device":"abc","timestamp":"2021-04-01T21:56:54.989Z","CO2_level":1000,"humidity":51,"temperature":22}
+{"device":"abd","timestamp":"2021-04-01T21:50:44.967Z","CO2_level":900,"humidity":44,"temperature":31}
+{"device":"abd","timestamp":"2021-04-01T21:44:34.946Z","CO2_level":1300,"humidity":32,"temperature":22}
+{"device":"abd","timestamp":"2021-04-01T21:07:34.817Z","CO2_level":1500,"humidity":62,"temperature":36}
+{"device":"abd","timestamp":"2021-04-01T21:01:24.796Z","CO2_level":850,"humidity":79,"temperature":15}
+{"device":"abd","timestamp":"2021-04-01T20:30:34.689Z","CO2_level":1300,"humidity":52,"temperature":21}
